@@ -1,0 +1,4 @@
+Host: master
+    HostName: master.example.com
+    User: master
+    Port: 0000
