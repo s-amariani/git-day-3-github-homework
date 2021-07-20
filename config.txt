@@ -1,4 +1,4 @@
 Host: master
     HostName: master.example.com
-    User: master1
+    User: feature232
     Port: 9888
